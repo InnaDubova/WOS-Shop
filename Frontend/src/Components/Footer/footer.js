@@ -2,7 +2,7 @@ import React from 'react'
 import { Container, Row, Col, Nav, Navbar, Form, FormControl, Button } from 'react-bootstrap';
 import './footer.css';
 
-// import '@fortawesome/fontawesome-free/js/all.js';
+import '@fortawesome/fontawesome-free/js/all.js';
 
 const Footer = () => {
     return (
