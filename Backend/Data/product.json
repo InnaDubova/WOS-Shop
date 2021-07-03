@@ -14,5 +14,57 @@
         "stock": 45,
         "numOfReviews": 1566,
         "reviews": []
+    },
+    {
+        "name": "Ноутбук Asus Laptop E410MA-EB268 (90NB0Q11-M17970) Peacock Blue",
+        "price": 9999,
+        "descriptions": "Экран 14 IPS (1920x1080) Full HD, матовый / Intel Celeron N4020 (1.1 - 2.8 ГГц) / RAM 4 ГБ / SSD 256 ГБ / Intel UHD Graphics 600 / без ОД / Wi-Fi / Bluetooth / веб-камера / без ОС / 1.3 кг / черный с синим",
+        "images": [
+            {
+                "product_id": "products/dty65vgu75t",
+                "url": "https://content1.rozetka.com.ua/goods/images/big/163130446.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "KTC",
+        "stock": 10,
+        "numOfReviews": 99,
+        "reviews": []
+    },
+    {
+        "name": "Клавиатура проводная HyperX Alloy FPS Pro Cherry MX Red USB",
+        "price": 2799,
+        "descriptions": "Механические переключатели Cherry MX Red, Материал метал с пластиком, Отсоединяемый оплетенный кабель длиной 1.8 м, 100% Anti-Ghosting и N-Key Rollover, Красная подсветка, 6 светодиодных режимов и 4 уровнями яркости, Игровой режим (отключение кнопки Win)",
+        "images": [
+            {
+                "product_id": "products/HX-KB4RD1-RU/R1",
+                "url": "https://content1.rozetka.com.ua/goods/images/big/11165886.jpg"
+            }
+        ],
+        "category": "Keyboards",
+        "seller": "Rozetka",
+        "stock": 420,
+        "salePrice": 0.0,
+        "numOfReviews": 585,
+        "numOfPurchase": 51,
+        "reviews": []
+    },
+    {
+        "name": "Мобильный телефон Samsung Galaxy A52 8/256GB Black",
+        "price": 11999,
+        "descriptions": "супер влагозащита, матовый корпус, дракон, стерео динамики, механическая стабилизация, камера 4к видео, амолед, 8/256",
+        "images": [
+            {
+                "product_id": "products/sfj,[iygtrrio0]",
+                "url": "https://content1.rozetka.com.ua/goods/images/big/166276939.jpg"
+            }
+        ],
+        "category": "Sellphones",
+        "seller": "Barahlo.com",
+        "stock": 555,
+        "salePrice": 0.0,
+        "numOfReviews": 33,
+        "numOfPurchase": 3,
+        "reviews": []
     }
 ]

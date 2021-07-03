@@ -37,13 +37,8 @@ const productScheme = new mongoose.Schema({
                 'CPU',
                 'Monitors',
                 'Laptops',
-                // 'Mouses',
-                // 'Processors',
-                // 'Keyboards',
-                // 'Sellphones',
-                // 'TV set',
-                // 'Cameras',
-                // 'PlayStation',
+                'Keyboards',
+                'Sellphones',
             ],
             message: "Select correct category"
         }

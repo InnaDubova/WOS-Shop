@@ -1,11 +1,25 @@
 const Product = require("../Models/product");
 
-exports.getProducts = (req, res, next) => {
+exports.getProducts = async (req, res, next) => {
+
+    const products = await Product.find();
     res.status(200).json({
         success: true,
-        message: "getProducts"
+        message: "getProducts",
+        products
     })
 }
+
+
+exports.getSingleProduct = async (req, res, next) => {
+    const product = await Product.findById(req.param.id);
+    res.status(200).json({
+        success: true,
+        message: "getSingleProduct",
+        product
+    })
+}
+
 exports.get404Page = (req, res, next) => {
     res.status(404).json({
         success: true,
