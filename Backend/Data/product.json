@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Монитор 23,6 Acer Nitro EI242QRPbiipx",
+        "price": 5499,
+        "descriptions": "Экран 15.6' IPS (1920x1080) Full HD, матовый / Intel Core i5-1135G7 (4.2 ГГц) / RAM 8 ГБ / SSD 512 ГБ / nVidia GeForce MX350, 2 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / без ОС / 1.9 кг / серебристый",
+        "images": [
+            {
+                "product_id": "products/123654",
+                "url": "https://content1.rozetka.com.ua/goods/images/big/31398243.jpg"
+            }
+        ],
+        "category": "Monitors",
+        "seller": "Rozetka",
+        "stock": 45,
+        "numOfReviews": 1566,
+        "reviews": []
+    }
+]

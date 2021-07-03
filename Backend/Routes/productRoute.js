@@ -1,9 +1,10 @@
 const express = require("express");
-const { model } = require("mongoose");
-
 const router = express.Router();
-const {getProducts} = require("../Controllers/productController")
 
-router.route('/products').get(getProducts)
+const { getHomePage, getProducts, get404Page } = require("../Controllers/productController");
+
+router.route("/main").get(getHomePage);
+router.route("/products").get(getProducts);
+router.route('*').get(get404Page);
 
 module.exports = router;
